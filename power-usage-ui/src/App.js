@@ -1,5 +1,6 @@
 import React from 'react';
 import PowerForm from './components/PowerForm';
+import './App.css';
 
 function App() {
   return (
